@@ -6,4 +6,5 @@ ref: [Creating a WebSocket chat](https://ktor.io/docs/creating-web-socket-chat.h
 
 [Echo Test](https://www.websocket.org/echo.html)
 
+- `ws://localhost:8080/simple-chat`
 - `ws://localhost:8080/chat`
